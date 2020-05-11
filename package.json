@@ -1,0 +1,7 @@
+{
+  "name": "aws-rest-with-s3-fileUpload",
+  "version": "1.0.0",
+  "description": "Serverless DEMO python Lambda code to upload File and process it",
+  "author": "KK",
+  "license": "MIT"
+}
